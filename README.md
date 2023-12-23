@@ -5,7 +5,7 @@ GraphQL API I developed using Flask, Graphene, and pymysql. This API allows user
 - Use the following command in Terminal and localhost for GraphQL query
 
 ```
-python3 -u schema.py
+run schema.py
 click link: http://localhost:8012/graphql
 GraphQL page runs the query  example
 {
